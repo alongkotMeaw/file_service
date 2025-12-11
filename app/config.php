@@ -1,0 +1,3 @@
+<?php
+$APP_PASSWORD = "123456"; 
+?>
